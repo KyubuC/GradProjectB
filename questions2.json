@@ -1,0 +1,38 @@
+{
+
+"order":[0],
+"List":["A"],
+"points":[0],
+"positionlabel":[-300,600],
+"framelabel":[0],
+"loses":[0],
+"level":[1],
+"gamestart":[true],
+"gameover":[false],
+"questions":[4],
+
+
+
+"A":[
+
+   { "question":"下列哪個為徒手運動的定義?", "answer1":"在健身房裡，需要大型器械來進行的動作" , "answer2":"訓練者可以在不固定角度的情況下進行多平面運動 " , "answer3":"不需要額外重量器材，利用本身體重作為負重的肌力訓練" , "answer4":"運用額外重量器材，利用器材作為負重的肌力訓練" , "correctanswer":"不需要額外重量器材，利用本身體重作為負重的肌力訓練"},
+    { "question":"下列哪一項運動不屬於徒手運動？", "answer1":"仰臥起坐" , "answer2":"伏地挺身" , "answer3":"棒式" , "answer4":"划船機" , "correctanswer":"划船機"},
+    { "question":"下列何者不為徒手健身優點？", "answer1":"較能對特定部位作集中訓練" , "answer2":"不受場地影響 " , "answer3":"訓練較無門檻" , "answer4":"訓練相對安全" , "correctanswer":"較能對特定部位作集中訓練"},
+ 	{ "question":"那些不是徒手健身主要族群？", "answer1":"健身新手" , "answer2":"想增加肌肉量的人" , "answer3":"沒時間運動的人" , "answer4":"女性" , "correctanswer":"想增加肌肉量的人"}
+
+],
+
+"B":[
+
+  
+    { "question":"下列哪個為徒手運動的定義?", "answer1":"在健身房裡，需要大型器械來進行的動作" , "answer2":"訓練者可以在不固定角度的情況下進行多平面運動 " , "answer3":"不需要額外重量器材，利用本身體重作為負重的肌力訓練" , "answer4":"運用額外重量器材，利用器材作為負重的肌力訓練" , "correctanswer":"不需要額外重量器材，利用本身體重作為負重的肌力訓練"},
+    { "question":"下列哪一項運動不屬於徒手運動？", "answer1":"仰臥起坐" , "answer2":"伏地挺身" , "answer3":"棒式" , "answer4":"不要划船機" , "correctanswer":"划船機"},
+    { "question":"下列何者不為徒手健身優點？", "answer1":"較能對特定部位作集中訓練" , "answer2":"不受場地影響 " , "answer3":"訓練較無門檻" , "answer4":")訓練相對安全" , "correctanswer":"較能對特定部位作集中訓練"},
+ 	{ "question":"那些不是徒手健身主要族群？", "answer1":"健身新手" , "answer2":"想增加肌肉量的人" , "answer3":"沒時間運動的人" , "answer4":"女性" , "correctanswer":"想增加肌肉量的人"}
+
+]
+
+
+
+}
+

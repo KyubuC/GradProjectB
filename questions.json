@@ -1,0 +1,38 @@
+{
+
+"order":[0],
+"List":["A"],
+"points":[0],
+"positionlabel":[-300,600],
+"framelabel":[0],
+"loses":[0],
+"level":[1],
+"gamestart":[false],
+"gameover":[false],
+"questions":[4],
+
+
+
+"A":[
+
+    { "question":"基礎深蹲須注意確保背部與臀部保持幾度角 ?", "answer1":"45~60" , "answer2":"45~90" , "answer3":"60~90" , "answer4":"90以上" , "correctanswer":"45~90"},
+    { "question":"剪刀腳須注意的事項何者正確 ?", "answer1":"雙腿抬高時越高越好" , "answer2":"雙腿抬高時不需太高" , "answer3":"彎曲保持膝蓋" , "answer4":"不要彎曲膝蓋" , "correctanswer":"不要彎曲膝蓋"},
+    { "question":"深蹲跳須注意的事項何錯誤 ?", "answer1":"雙腳與肩同寬" , "answer2":"彎曲膝蓋至大腿與地面平行" , "answer3":"確保背部與臀部保持60~90度角" , "answer4":"上半身挺胸" , "correctanswer":"確保背部與臀部保持60~90度角"},
+ 	{ "question":"熊爬會運動到哪些肌群？ ", "answer1":"手" , "answer2":"頭" , "answer3":"背" , "answer4":"臀" , "correctanswer":"手"}
+
+],
+
+"B":[
+
+  
+    { "question":"下列哪個為徒手運動的定義?", "answer1":"在健身房裡，需要大型器械來進行的動作" , "answer2":"訓練者可以在不固定角度的情況下進行多平面運動 " , "answer3":"不需要額外重量器材，利用本身體重作為負重的肌力訓練" , "answer4":"運用額外重量器材，利用器材作為負重的肌力訓練" , "correctanswer":"不需要額外重量器材，利用本身體重作為負重的肌力訓練"},
+    { "question":"下列哪一項運動不屬於徒手運動？", "answer1":"仰臥起坐" , "answer2":"伏地挺身" , "answer3":"棒式" , "answer4":"不要划船機" , "correctanswer":"划船機"},
+    { "question":"下列何者不為徒手健身優點？", "answer1":"較能對特定部位作集中訓練" , "answer2":"不受場地影響 " , "answer3":"訓練較無門檻" , "answer4":")訓練相對安全" , "correctanswer":"較能對特定部位作集中訓練"},
+ 	{ "question":"那些不是徒手健身主要族群？", "answer1":"健身新手" , "answer2":"想增加肌肉量的人" , "answer3":"沒時間運動的人" , "answer4":"女性" , "correctanswer":"想增加肌肉量的人"}
+
+]
+
+
+
+}
+
